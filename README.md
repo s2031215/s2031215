@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s2031215
-- 👀 I’m interested in Linux Docker Python
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in Automated script
+- 🌱 I’m currently learning Docker Python
 - 📫 How to reach me https://github.com/s2031215
 
 <!---
