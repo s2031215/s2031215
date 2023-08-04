@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=s2031215)
 - 👋 Hi, I’m @s2031215
 - 👀 I’m interested in Scripting & Automation
 - 🌱 I’m currently learning Javascript, Bash and Python
