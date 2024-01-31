@@ -5,7 +5,7 @@
 - 📫 How to reach me https://github.com/s2031215
 
 ## My Blog
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.2031215.xyz&style=horizontal)](https://www.2031215.xyz)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.2031215.xyz&style=horizontal&mode=dark)](https://www.2031215.xyz)
 
 ## Working Project
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/s2031215/zh2cn-Converter-obsidian&style=horizontal)](https://github.com/s2031215/zh2cn-Converter-obsidian)
