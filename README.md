@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Javascript, Bash and Python
 - 📫 How to reach me https://github.com/s2031215
 
+## My Blog
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.2031215.xyz&style=horizontal)](https://www.2031215.xyz)
+
 ## Working Project
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/s2031215/zh2cn-Converter-obsidian&style=horizontal)](https://github.com/s2031215/zh2cn-Converter-obsidian)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/s2031215/imagekit_GUI_tool&style=horizontal)](https://github.com/s2031215/imagekit_GUI_tool)
